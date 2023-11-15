@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport"
+        content="width=device-width, initial-scale=1.0" />
+        <title>Cuenta Atras</title>
+        <!--styles-->
+        <link rel="stylesheat" href="styles.css" />
+    </head>
+    <body>
+        <section class="section-center">
+        <!--img-->        
+        <article class="gift-img">
+            <img src="./gift.jpeg" alt="gift picture"/>
+        </article>
+        <!--info-->  
+        <article class="gift-info> 
+          <h3>old</h3>
+           <h4> class= giveaway ends on Sunday, 19 November, 8:00pm </h4>
+                 <p> Cuenta atras para la llegada del lo mas nuevo de el universo
+                </p>
+            <div class="deadline">
+            <!-- dias -->
+                <div class=deadline-format></div>
+                <div>
+                    <h4>class="days">4</h4>
+                    <span>days</span>
+                </div>
+            <!-- end of item -->
+             <!-- horas -->
+             <div>
+                <h4>class="hours">4</h4>
+                <span>hours</span>
+            </div>
+        <!-- end of item -->
+        <!-- minutos -->
+        <div class=deadline-format></div>
+        <div>
+            <h4>class="minutes">4</h4>
+            <span>minutes</span>
+        </div>
+    <!-- end of item -->
+     <!-- segundos -->
+     <div>
+        <h4>class="seconds">4</h4>
+        <span>seconds</span>
+    </div>
+<!-- end of item -->
+        
+
+        </article>    
+        </section>
+<!--javascript-->        
+        <script src="app.js"></script>
+    </body>
+</html>
